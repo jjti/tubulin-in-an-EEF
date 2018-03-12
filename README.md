@@ -23,7 +23,7 @@ eField		        0.035826345822314 0.026219852770675 0.16659974853940
 
 # analysis
 
-Representative scripts for the analyses performed on the 50 ns trajectory files. The types of analyses, and the range of frames that were studied, are below:
+Representative VMD/tcl scripts for the analyses performed on the 50 ns trajectory files. The types of analyses, and the range of frames that were studied, are below:
 
 * rmsd (full 50ns)
 * rmsf (10 to 20ns)
