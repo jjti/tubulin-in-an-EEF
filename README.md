@@ -1,10 +1,13 @@
 # md
 
-* System pdb and psf after equilibration
-  * used in every run (referenced in ./md/namd.conf)
-* Initial coorindates, velocities, and cell dimensions
-  * based on the final frame of the equilibration run
-* CHARMM36 parameter files
+```protein.pdb protein.psf```  
+System pdb and psf after equilibration. Used in every run.
+
+```initial.*```  
+Coorindates, velocities, and cell dimensions from the final frame of the equilibration run.
+
+```parameters/**```  
+CHARMM36 parameter files.
 
 The [electric field parameter](http://www.ks.uiuc.edu/Research/namd/2.10b1/ug/node42.html) was turned on using eFieldOn and eField
 
