@@ -33,3 +33,7 @@ Representative VMD/tcl scripts for the analyses performed on the 50 ns trajector
 * dimer_stretch (10 to 20ns)
 * h1_b2_loop (5 to 10ns) (using the last 5ns of 10ns runs over several magnitudes)
 * deviation (last frame of EEF exposure)
+
+# sample data
+
+Trajectory data, used for analysis, is available at https://figshare.com/s/32bd5a62009f184ebd47
