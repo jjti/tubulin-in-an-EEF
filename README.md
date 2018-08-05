@@ -1,4 +1,6 @@
-# md
+![fig3 1](https://user-images.githubusercontent.com/13923102/43682320-a89507da-983f-11e8-837a-3a49119c255c.png)
+
+## md
 
 ```protein.pdb protein.psf```  
 System pdb and psf after equilibration. Used in every run.
@@ -21,7 +23,7 @@ eFieldOn			yes
 eField		        0.035826345822314 0.026219852770675 0.16659974853940
 ```
 
-# analysis
+## analysis
 
 Representative VMD/tcl scripts for the analyses performed on the 50 ns trajectory files. The types of analyses, and the range of frames that were studied, are below:
 
