@@ -1,4 +1,8 @@
-![fig3 1](https://user-images.githubusercontent.com/13923102/43682320-a89507da-983f-11e8-837a-3a49119c255c.png)
+# Tubulin's response to external electric fields
+
+A molecular dynamics study
+
+<img src="https://user-images.githubusercontent.com/13923102/43682320-a89507da-983f-11e8-837a-3a49119c255c.png" width="465">
 
 ## md
 
@@ -23,6 +27,10 @@ eFieldOn			yes
 eField		        0.035826345822314 0.026219852770675 0.16659974853940
 ```
 
+## data
+
+Trajectory data, used for analysis, is available at https://figshare.com/s/32bd5a62009f184ebd47
+
 ## analysis
 
 Representative VMD/tcl scripts for the analyses performed on the 50 ns trajectory files. The types of analyses, and the range of frames that were studied, are below:
@@ -35,7 +43,3 @@ Representative VMD/tcl scripts for the analyses performed on the 50 ns trajector
 * dimer_stretch (10 to 20ns)
 * h1_b2_loop (5 to 10ns) (using the last 5ns of 10ns runs over several magnitudes)
 * deviation (last frame of EEF exposure)
-
-# sample data
-
-Trajectory data, used for analysis, is available at https://figshare.com/s/32bd5a62009f184ebd47
