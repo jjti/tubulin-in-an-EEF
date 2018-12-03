@@ -2,6 +2,8 @@
 
 A molecular dynamics study
 
+Paper: [Tubulin's response to external electric fields by molecular dynamics simulations](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202141)
+
 <img src="https://user-images.githubusercontent.com/13923102/43682320-a89507da-983f-11e8-837a-3a49119c255c.png" width="465">
 
 ## md
